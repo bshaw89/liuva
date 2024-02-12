@@ -3,4 +3,5 @@
 ---
 
 ***
-[[For Players/Powers That Be/The Patrons\|The Patrons]]
+## [[For Players/Powers That Be/The Patrons\|The Patrons]]
+## [[For Players/Powers That Be/The Trine\|The Trine]]
