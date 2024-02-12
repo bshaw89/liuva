@@ -5,7 +5,6 @@
 # Welcome to Liûva
 ***
 
-
 ![sleeping-prince2.jpg|500](/img/user/sleeping-prince2.jpg)
 # [[For Players/People/People\|People]]
 # [[For Players/Places/Places\|Places]]
