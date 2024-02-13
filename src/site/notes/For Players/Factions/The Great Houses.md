@@ -6,7 +6,7 @@
 The five Great Houses of Liuva are the [[For Players/Factions/Factions\|factions]] which form the Grand Council. 
 
 >[!info] Note
->These descriptions reflect the general opinions of Fenigasti, otherwise known as Fen Folk.
+>These descriptions reflect the general opinions of Fenigasti, otherwise known as Fen Folk, and what they want from each House.
 ## House Bolja
 ***
 > [!quote] Opinion
