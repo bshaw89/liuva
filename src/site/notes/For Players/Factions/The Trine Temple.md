@@ -9,7 +9,7 @@ The Trine Temple is a religious [[For Players/Factions/Factions\|faction]] dedic
 >These descriptions reflect the general opinions of Fenigasti, otherwise known as Fen Folk, and what they want from the Temple.
 ## *Fen Folk on the Temple*
 
->[!quote] Opnion
+>[!quote] Opinion
 >Strange new gods, upsetting the way of things. How do these divine beings come out of nowhere and expect to rule over folk who were already here, living just fine? It isn't right.
 
 >[!question] Wants
