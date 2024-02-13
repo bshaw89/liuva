@@ -3,7 +3,7 @@
 ---
 
 ***
-The Imperial Legion is a [[For Players/Factions/Factions\|faction]] representing the military arm of the Guidovan Empire. The island of Liuva is technically under Imperial rule, having been conquered nearly a century ago. The Legion has erected forts all over Liuva to reinforce their presence and enforce Imperial law.
+The Imperial Legion is a [[For Players/Factions/Factions\|faction]] representing the military arm of the Guidovan Empire. The island of Liuva is technically under Imperial rule, having been conquered nearly a century ago. The Legion has erected forts all over Liuva to reinforce their presence and enforce Imperial law. 
 
 >[!info] Note
 >These descriptions reflect the general opinions of Fenigasti, otherwise known as Fen Folk, and what the want from the Legion.
