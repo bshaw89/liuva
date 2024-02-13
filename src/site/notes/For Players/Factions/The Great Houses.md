@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/for-players/factions/the-great-houses/"}
 ---
 
+[[For Players/Welcome to Liûva\|Index]] | [[For Players/People/People\|People]] | [[For Players/Places/Places\|Places]] | [[For Players/Factions/Factions\|Factions]] | [[For Players/Powers That Be/Powers That Be\|Powers That Be]] | [[For Players/Lore/Lore\|Lore]] | [[For Players/Session Recaps/Session Recaps\|Session Recaps]]
 ***
 The five Great Houses of Liuva are the [[For Players/Factions/Factions\|factions]] which form the Grand Council. 
 
