@@ -3,6 +3,8 @@
 ---
 
 ***
+[[For Players/People/People\|People]] living in and frequenting the village of Three Willows in [[For Players/Factions/Fenigast\|Fenigast]].
+
 **Evrine**, herbalist and forager, youthful for her age but wise.
 **Grith**, trickster and gullible legend seeker.
 **Hearn**, river pilot, gossip, and healthy eater.
