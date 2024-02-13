@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/for-players/factions/the-argaith/"}
 ---
 
+[[For Players/Welcome to Liûva\|Index]] | [[For Players/People/People\|People]] | [[For Players/Places/Places\|Places]] | [[For Players/Factions/Factions\|Factions]] | [[For Players/Powers That Be/Powers That Be\|Powers That Be]] | [[For Players/Lore/Lore\|Lore]] | [[For Players/Session Recaps/Session Recaps\|Session Recaps]]
 ***
 A [[For Players/Factions/Factions\|faction]] of native wanders and great hunters residing in the wild Argaith forests. It's said they were blessed by the [[For Players/Powers That Be/The Patrons\|Patrons]] after rejecting the [[For Players/Factions/The Trine Temple\|Trine]]. They are seldom seen outside the Argaith.
 
