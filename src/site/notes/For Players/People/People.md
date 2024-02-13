@@ -14,4 +14,5 @@ Various characters encountered by The Party during their adventures in [[For Pla
 
 
 ## Others
-**Darryl**. Individual encountered in the demesne of the dreaming prince. Long, expressive, pointed ears. Limited language capabilities. Claims to be hiding from someone.
+##### **Darryl**
+Individual encountered in the demesne of the dreaming prince. Long, expressive, pointed ears. Limited language capabilities. Claims to be hiding from someone.
