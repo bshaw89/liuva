@@ -4,8 +4,7 @@
 
 # Welcome to Liûva
 ***
-
-![sleeping-prince2.jpg|500](/img/user/sleeping-prince2.jpg)
+![sleeping-prince2 1.jpg](/img/user/sleeping-prince2%201.jpg)
 ## Index
 ***
 ## [[For Players/People/People\|People]]
