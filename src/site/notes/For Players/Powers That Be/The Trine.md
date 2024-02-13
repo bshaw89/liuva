@@ -3,4 +3,4 @@
 ---
 
 ***
-Three living divinities who have protected Liuva for 2000 years. They are the head of the [[For Players/Factions/The Trine Temple\|Trine Temple]].
+Three living divinities who have protected [[For Players/Welcome to Liûva\|Liuva]] for 2000 years. They are the head of the [[For Players/Factions/The Trine Temple\|Trine Temple]], and are part of the [[For Players/Powers That Be/Powers That Be\|Powers That Be]].
