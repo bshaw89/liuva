@@ -6,7 +6,7 @@
 A [[For Players/Factions/Factions\|faction]] of native wanders and great hunters residing in the wild Argaith forests. It's said they were blessed by the [[For Players/Powers That Be/The Patrons\|Patrons]] after rejecting the [[For Players/Factions/The Trine Temple\|Trine]]. They are seldom seen outside the Argaith.
 
 >[!info] Note
->These descriptions reflect the general opinions of Fenigasti, otherwise known as Fen Folk.
+>These descriptions reflect the general opinions of Fenigasti, otherwise known as Fen Folk, and what they want from the Argaith.
 
 ## *Fen Folk on the Argaith*
 
