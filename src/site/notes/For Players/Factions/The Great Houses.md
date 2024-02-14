@@ -35,7 +35,7 @@ The five Great Houses of Liuva are the [[For Players/Factions/Factions\|factions
 ## House Recaric
 ***
 >[!quote] Opinion
->Good folk. Helpful and skilled, if a little reserved.
+>Good folk. Helpful and skilled, if a little reserved. Those giant birds they fly are really something.
 
 >[!question] Wants
 >News and stories, ores, and to have them bring healers to stay for part of each month.
